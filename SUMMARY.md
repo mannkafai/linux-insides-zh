@@ -35,3 +35,7 @@
   * [队列自旋锁](06-syncprim-02.md)
   * [信号量](06-syncprim-03.md)
   * [互斥量](06-syncprim-04.md)
+* [概念](09-concepts/README.md)
+  * [Per-CPU变量](09-concepts-01.md)
+  * [CPU 掩码](09-concepts-02.md)
+  * [initcall 机制](09-concepts-03.md)
