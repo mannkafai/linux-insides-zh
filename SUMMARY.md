@@ -30,3 +30,8 @@
   * [Linux 内核如何启动程序](04-syscall-04.md)
   * [`open`系统调用的实现过程](04-syscall-05.md)
   * [Linux 资源限制](04-syscall-06.md)
+* [同步原语](SyncPrim/README.md)
+  * [自旋锁](06-syncprim-01.md)
+  * [队列自旋锁](06-syncprim-02.md)
+  * [信号量](06-syncprim-03.md)
+  * [互斥量](06-syncprim-04.md)
